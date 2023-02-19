@@ -16,9 +16,6 @@ Ada banyak keuntungan yang bisa Anda dapat dari CLV.
 
 
 Data yang digunakan terdiri dari 11 variabel:
-
-#   Column                   Non-Null Count  Dtype  
----  ------                   --------------  -----  
  0   Vehicle Class            5669 non-null   object 
  1   Coverage                 5669 non-null   object 
  2   Renew Offer Type         5669 non-null   object 
@@ -28,7 +25,7 @@ Data yang digunakan terdiri dari 11 variabel:
  6   Number of Policies       5669 non-null   float64
  7   Monthly Premium Auto     5669 non-null   float64
  8   Total Claim Amount       5669 non-null   float64
- 9   Income                   5669 non-null   float64
- 10  Customer Lifetime Value  5669 non-null   float64
+ 9   Income                   
+ 10  Customer Lifetime Value  
  
  
